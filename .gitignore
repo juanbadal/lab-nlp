@@ -128,4 +128,6 @@ fabric.properties
 # Ignore all local history of files
 .history
 
+your-code/training.1600000.processed.noemoticon.csv
+
 # End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode
